@@ -5,7 +5,7 @@ This is a team project that finds the relationship between renewable energy prod
 ![image](https://user-images.githubusercontent.com/66208800/201391151-8a332d2c-d1a0-49b2-ada5-8036e4907bbd.png)
 + The first goal of this project is to find a relationship between the weather climate such as snow, rain, wind, and temperature and the amount of renewable energy production by using weather dataset and energy generation dataset in Spain.
 
-![image](https://user-images.githubusercontent.com/66208800/201391564-2d94e5ad-8530-4026-828c-faaa2a5760da.png)
+![image](https://user-images.githubusercontent.com/66208800/201391655-3af759b0-a9e8-47ec-8c64-30c5bd323c34.png)
 + Then, the second goal is to predict electricity price for resale surplus power electricity. The factors are transportation fee, inventory fee, etc. My team will compare the predicted electricity price with TSO(Transmission Service Operator).
 
 ## 2. Problem definition
