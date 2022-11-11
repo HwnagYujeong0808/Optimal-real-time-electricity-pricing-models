@@ -2,6 +2,7 @@
 This is a team project that finds the relationship between renewable energy production and weather in each region of Spain and predicts appropriate prices according to the type of renewable energy by using data mining.
 
 ## 1. Topic description
+
 ![image](https://user-images.githubusercontent.com/66208800/201391151-8a332d2c-d1a0-49b2-ada5-8036e4907bbd.png)
 + The first goal of this project is to find a relationship between the weather climate such as snow, rain, wind, and temperature and the amount of renewable energy production by using weather dataset and energy generation dataset in Spain.
 
