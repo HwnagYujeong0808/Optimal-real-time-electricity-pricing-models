@@ -32,6 +32,7 @@ We will use datasets for the energy, the weather, and the current Spanish TSO pr
 ## 4. Dataset
 ![image](https://user-images.githubusercontent.com/66208800/201389294-62d6d354-0a2f-4778-b956-7f6c11b88815.png)
 + *energy_dataset*
+
 ![image](https://user-images.githubusercontent.com/66208800/201389344-81317727-21da-42d1-b9c8-14b9d3cfca39.png)
 + *weather_features_dataset*
 
