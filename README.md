@@ -2,9 +2,11 @@
 This is a team project that finds the relationship between renewable energy production and weather in each region of Spain and predicts appropriate prices according to the type of renewable energy by using data mining.
 
 ## 1. Topic description
-
+![image](https://user-images.githubusercontent.com/66208800/201391151-8a332d2c-d1a0-49b2-ada5-8036e4907bbd.png)
 + The first goal of this project is to find a relationship between the weather climate such as snow, rain, wind, and temperature and the amount of renewable energy production by using weather dataset and energy generation dataset in Spain.
-Then, the second goal is to predict electricity price for resale surplus power electricity. The factors are transportation fee, inventory fee, etc. My team will compare the predicted electricity price with TSO(Transmission Service Operator).
+
+![image](https://user-images.githubusercontent.com/66208800/201391376-bc618ca1-1598-4531-96fb-9cb4ebfbacc4.png)
++ Then, the second goal is to predict electricity price for resale surplus power electricity. The factors are transportation fee, inventory fee, etc. My team will compare the predicted electricity price with TSO(Transmission Service Operator).
 
 ## 2. Problem definition
 + As concerns about climate change keep growing every year, nations across the globe are starting Carbon-zero plans for the next decade. Among their different goals, the increase of renewable energy production and consumption seems to be one priority of our generation. As opposed to fossil energy however, renewable energy such as solar or wind energy are not available all year and need specific weather conditions to be effective. Therefore, some countries may be more prone to some renewable energy than others. For example, countries near the equator might focus more on solar energy than Nordic countries as they get more direct sunlight throughout the year than the latter. However, it might be more complicated for countries with variable weather to decide which type of energy to invest in. Indeed, countries like Spain may want to invest both in solar and wind as well as other types of energy at the same time. As a result, an analysis of the location of the production and the time of the distribution is needed as the country wants as little as waste as possible and a cost as low as possible. This analysis will allow one to understand which energy costs the least and produces the most and therefore, decide which renewable energy to prioritize in the future.  
