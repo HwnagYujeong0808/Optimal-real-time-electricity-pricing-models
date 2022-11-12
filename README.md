@@ -17,7 +17,7 @@ This is a team project that finds the relationship between renewable energy prod
 + In Spain, the funding system for renewable energies is quite effective. The share of renewables in total power plant capacity was 44 % on 31 December 2013. The share of renewables in total power demand has increased from less than 7 % in 2000 to more than 25 % in 2013. Moreover, Spain has a variety of possible renewable energy production such as wind and solar energy thanks to its topography and weather. Therefore, we selected Spain, which uses more than 40% of renewable energy, as a target and conducted an analysis.
 
 ### 2) Our Purpose
-+ Our purpose is not only to analyze the relationship between weather and renewable energy production, but also to find an optimal policy to distribute renewable energy most efficiently in each region of Spain with appropriate price based on weather-related energy generation and consumption data. Currently in Spain, only power transmission is under state control (REE, a state-owned enterprise), and power generation and distribution are operated by private companies.
++ Our purpose is not only to analyze the relationship between weather and renewable energy production, but also to find the optimal real-time electricity pricing models appropriate price based on weather-related energy generation and consumption data. Currently in Spain, only power transmission is under state control (REE, a state-owned enterprise), and power generation and distribution are operated by private companies.
 We will use datasets for the energy, the weather, and the current Spanish TSO price (like SMP in Korea).
  
 ### 3) Our Constraints
