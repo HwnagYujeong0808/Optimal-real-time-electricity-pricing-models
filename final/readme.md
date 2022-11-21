@@ -1,6 +1,7 @@
 ## Final presentation
  
-###  Topic: Find any problem that can be solved by data mining techniques in one of business domains whatever.
+###  Topic
++ Find any problem that can be solved by data mining techniques in one of business domains whatever.
 + Specify the problem in business areas
 +  Specify the goal and purpose of your project
 ###  Data
