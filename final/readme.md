@@ -30,3 +30,13 @@
 ### Make model and evaluation
 
 #### Season feature
+ + Compare whether the season feature is used or not
+ + Output is actual price and training models are Linear, Ridge and Lasso regression
+ + When 'season' feature is used, the performance is improved
+
+#### Fossil energy & Renewable energy
+ + The correlation of attributes related to fossil energy was high
+ + Split fossil energy dataset & renewable energy dataset
+ + Use Linear, Ridge and Lasso model but the r2_score difference of fossil and renewable is small
+ + ∴ Determine to use XGBoost and Random Forest model
+ + 
