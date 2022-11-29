@@ -42,8 +42,9 @@ We will use datasets for the energy, the weather, and the current Spanish TSO pr
 
 ## 5. Preprocessing
 
-### 1) EDA
-### 2) Feature extraction
+### Feature extraction
+  + Season contains spring, summer, autumn and winter and they need to be split to improve performance.
+  + Energy generation is influenced by different season, so it is helpful to increase accuracy.
 
 ## 6. Our models
 
