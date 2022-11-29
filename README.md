@@ -52,10 +52,10 @@ We will use datasets for the energy, the weather, and the current Spanish TSO pr
   + Ridge regression is used when the independent variables are highly correlated and lasso regression is used to improve the prediction accuracy.
   + The models are used to show performance improvement after feature extraction 'season' and to predict price using renewable and fossil energy dataset.
 ### 2) XGBoost Regression
-  + XGBoost is the implementation of gradient boosting for regression predictive modeling and has very good prediction.
+  + XGBoost regression is the implementation of gradient boosting for regression predictive modeling and has very good prediction.
   + The model is used to predict price using renewable and fossil energy dataset.
 ### 3) Random Forest Regression
-  + d
+  + Random Forest regression is an ensemble technique performing both regression and classification with the use of multiple decision trees.
   + The model is used to predict price using renewable and fossil energy dataset.
 ### 4) Arima model
 
