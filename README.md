@@ -67,4 +67,4 @@ We will use datasets for the energy, the weather, and the current Spanish TSO pr
 
 ## 7. Conclusion
   + Actual price is influeced by renewable energy than fossil energy. It means that Spain generates more renewable energy than fossil energy.
-  + However, Spain needs to produce more renewable energy when considering test score and the renewable energy production amount in graph.
+  + However, Spain needs to produce more renewable energy when considering test score and the energy production amount in graph.
