@@ -42,7 +42,7 @@
  + XGBoost model: To compare accuracy, hyperparameter tuning and no hyperparameter tuning are used
  + In hyperparameter tuning, random search is used instead of grid search for speed and ordinal encoder is better than one hot encoder due to performance
 
+### Alternative(ARIMA)
+
 ### Conclusion
  + Renewable energy do not impact the price enough 
-
-### Improvements
