@@ -24,3 +24,9 @@
 
 ### ‼️ We have to focus on 
  + **Modeling & evaluation**
+
+## Specific
+
+### Make model and evaluation
+
+#### Season feature
