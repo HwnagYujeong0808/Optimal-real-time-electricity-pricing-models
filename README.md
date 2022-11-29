@@ -45,11 +45,11 @@ We will use datasets for the energy, the weather, and the current Spanish TSO pr
 ### 1) EDA
 ### 2) Feature extraction
 
-## 5. Our models
+## 6. Our models
 
 ### 1) Linear, Ridge and Lasso Regression
 ### 2) XGBoost Regression
 ### 3) Random Forest Resgresion
 ### 4) Arima model
 
-## 5. Conclusion
+## 7. Conclusion
