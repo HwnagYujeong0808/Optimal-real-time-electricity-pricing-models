@@ -65,3 +65,5 @@ We will use datasets for the energy, the weather, and the current Spanish TSO pr
   + The model is used to predict actual price by using datetime (Feature: price day ahead).
 
 ## 7. Conclusion
+  + Actual price is influeced by fossil energy than renewable energy. It means that Spain generates more fossil energy than renewable energy.
+  + Therefore, Spain needs to decrease fossil energy.
