@@ -40,6 +40,16 @@ We will use datasets for the energy, the weather, and the current Spanish TSO pr
 
 + As for the datasets that will be used for this project, we found two main datasets on Kaggle uploaded by Nicholas Jhana that were last updated in 2019. In the former one, we have features about the energy consumption and production in Spain by the hour as well as the overall price of the energy. In the latter one, we have information about the weather in 5 cities in Spain such as Barcelona and Valencia and their respective temperature, rain, etc.
 
-## 5. Our Procedure
+## 5. Preprocessing
 
-### 1) Preprocessing
+### 1) EDA
+### 2) Feature extraction
+
+## 5. Our models
+
+### 1) Linear, Ridge and Lasso Regression
+### 2) XGBoost Regression
+### 3) Random Forest Resgresion
+### 4) Arima model
+
+## 5. Conclusion
