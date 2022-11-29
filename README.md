@@ -48,8 +48,12 @@ We will use datasets for the energy, the weather, and the current Spanish TSO pr
 ## 6. Our models
 
 ### 1) Linear, Ridge and Lasso Regression
+  + Linear regression is a linear model which represents the relationship between a scalar response and independent variables.
+  + Ridge regression is used when the independent variables are highly correlated and lasso regression is used to improve the prediction accuracy.
+  + The models are used to show performance improvement after feature extraction 'season' and to predict price using renewable and fossil energy dataset.
 ### 2) XGBoost Regression
-### 3) Random Forest Resgresion
+  + 
+### 3) Random Forest Regression
 ### 4) Arima model
 
 ## 7. Conclusion
