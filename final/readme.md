@@ -37,10 +37,15 @@
 #### Fossil energy & Renewable energy
  + The correlation of attributes related to fossil energy was high
  + Split fossil energy dataset & renewable energy dataset
- + Use Linear, Ridge and Lasso model but the r2_score difference of fossil and renewable is small
- + Therefore, we determined to use XGBoost and Random Forest model
- + XGBoost model: To compare accuracy, hyperparameter tuning and no hyperparameter tuning are used
+ + Use Linear, Ridge, Lasso, XGBoost and Random Forest model
+ + XGBoost and Random Forest model: To compare accuracy, hyperparameter tuning and no hyperparameter tuning are used
  + In hyperparameter tuning, random search is used instead of grid search for speed and ordinal encoder is better than one hot encoder due to performance
+ 
+ #### Evaluation results
+  + When comparing r2_score, renewable energy is generally larger than fossil energy
+  + In renewable energy dataset, wind_speed, pressure and generation solar are important features
+  + In fossil energy dataset, weather data and generation of energy data have a significant impact on predicting actual price
+  + 
 
 ### Alternative(ARIMA)
 
