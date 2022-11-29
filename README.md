@@ -38,4 +38,8 @@ We will use datasets for the energy, the weather, and the current Spanish TSO pr
 ![image](https://user-images.githubusercontent.com/66208800/201389344-81317727-21da-42d1-b9c8-14b9d3cfca39.png)
 + *weather_features_dataset*
 
-+ As for the datasets that will be used for this project, we found two main datasets on Kaggle uploaded by Nicholas Jhana that were last updated in 2019. In the former one, we have features about the energy consumption and production in Spain by the hour as well as the overall price of the energy. In the latter one, we have information about the weather in 5 cities in Spain such as Barcelona and Valencia and their respective temperature, rain, etc. 
++ As for the datasets that will be used for this project, we found two main datasets on Kaggle uploaded by Nicholas Jhana that were last updated in 2019. In the former one, we have features about the energy consumption and production in Spain by the hour as well as the overall price of the energy. In the latter one, we have information about the weather in 5 cities in Spain such as Barcelona and Valencia and their respective temperature, rain, etc.
+
+## 5. Our Procedure
+
+### 1) Preprocessing
