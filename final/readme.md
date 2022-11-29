@@ -45,7 +45,7 @@
   + When comparing r2_score, renewable energy is generally larger than fossil energy
   + In renewable energy dataset, wind_speed, pressure and generation solar are important features
   + In fossil energy dataset, weather data and generation of energy data have a significant impact on predicting actual price
-  + 
+  + We need to consider the other model(ARIMA), because the previous models have rather low accuracy
 
 ### Alternative(ARIMA)
 
