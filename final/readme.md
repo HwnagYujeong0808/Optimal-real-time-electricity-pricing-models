@@ -38,5 +38,10 @@
  + The correlation of attributes related to fossil energy was high
  + Split fossil energy dataset & renewable energy dataset
  + Use Linear, Ridge and Lasso model but the r2_score difference of fossil and renewable is small
- + ∴ Determine to use XGBoost and Random Forest model
- + 
+ + Therefore, we determined to use XGBoost and Random Forest model
+ + XGBoost model: To compare accuracy, hyperparameter tuning and no hyperparameter tuning are used
+ + In hyperparameter tuning, random search is used instead of grid search for speed and ordinal encoder is better than one hot encoder due to performance
+
+### Conclusion
+
+### Improvements
