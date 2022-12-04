@@ -48,6 +48,19 @@
   + We need to consider the other model(ARIMA), because the previous models have rather low accuracy
 
 ### Alternative(ARIMA)
+  + Determining whether the time series is stationary or not with the Augmented Dickey-Fuller test.
+  + Make the time series stationary and find the ARIMA parameter d
+  + Do the ACF and PACF plot and find the parameters p and q
+  + ACF plot is sinuosidal so we can use the ARIMA(p,d,0) model
+  + Build the model and predict a forecast
+  + Do it over different timespan: the ARIMA model is good for 1 and a half week
+  + We need to update it regularly !
 
 ### Conclusion
- + Renewable energy do not impact the price enough 
+ + By considering R2 score, MSE and MAE, To best predict energy prices, we need to use a XGBoost MODEL in renewable energy dataset.
+ + The model predicted prices better when considering renewables energy production data such as solar energy and biomass
+ + The added feature 'season' impact positvely the price predictions
+ + The R2 score is as low as 0.55 which means Spain does not produce enough renewable energy
+ + The price decreases the more renewable energy is used
+ + Additional datasets with features such as stock prices should be used in future work
+
