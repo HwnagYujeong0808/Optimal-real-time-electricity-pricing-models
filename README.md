@@ -44,7 +44,7 @@ We will use datasets for the energy, the weather, and the current Spanish TSO pr
 
 ### Feature extraction
   + Season contains spring, summer, autumn and winter and they need to be split to improve performance.
-  + Energy generation is influenced by different season, so it is helpful to increase accuracy.
+  + Energy generation is influenced by different season, so it is helpful to increase model performance.
 
 ## 6. Our models
 
