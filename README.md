@@ -29,7 +29,7 @@ We will use datasets for the energy, the weather, and the current Spanish TSO pr
 + The price we predict could greatly enhance the profit of the entire region, rather than the price of electric energy under the TSO's current system.
 
 ### 5) Our Goal
-+ Our ultimate goal in this project is to promote the development of renewable energy in the local market, to increase the acceptability of local renewable energy by presenting better policies than TSOs, and to respond to power peak times.
++ By comparing the price predicted by the amount of fossil energy generation and the price predicted by the amount of renewable energy generation,we can determine how much renewable energy affects the price.  Using this, it is possible to predict prices using only renewable energy in the future even if the production of fossil energy is reduced, thereby encouraging the production of renewable energy at the national level.
 
 ## 4. Dataset
 ![image](https://user-images.githubusercontent.com/66208800/201389294-62d6d354-0a2f-4778-b956-7f6c11b88815.png)
