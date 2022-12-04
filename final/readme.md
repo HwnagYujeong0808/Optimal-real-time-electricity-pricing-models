@@ -87,7 +87,7 @@ We will use datasets for the energy, the weather, and the current Spanish TSO pr
   + In fossil energy dataset, weather data and generation of energy data have a significant impact on predicting actual price
   + We need to consider the other model(ARIMA), because the previous models have rather low accuracy
 
-### 8. Alternative(ARIMA)
+## 8. Alternative(ARIMA)
   + Determining whether the time series is stationary or not with the Augmented Dickey-Fuller test.
   + Make the time series stationary and find the ARIMA parameter d
   + Do the ACF and PACF plot and find the parameters p and q
@@ -96,7 +96,7 @@ We will use datasets for the energy, the weather, and the current Spanish TSO pr
   + Do it over different timespan: the ARIMA model is good for 1 and a half week
   + We need to update it regularly !
 
-### 9. Conclusion
+## 9. Conclusion
  + By considering R2 score, MSE and MAE, To best predict energy prices, we need to use a XGBoost MODEL in renewable energy dataset.
  + The model predicted prices better when considering renewables energy production data such as solar energy and biomass
  + The added feature 'season' impact positvely the price predictions
